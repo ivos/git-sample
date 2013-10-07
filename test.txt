@@ -1,3 +1,4 @@
+version 1.0
 bla
 2. commit in master.
 featureA 1
