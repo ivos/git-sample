@@ -7,3 +7,4 @@ feature B 1
 feature B 2
 feature B 3
 featureC 1
+featureC 2
