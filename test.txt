@@ -16,4 +16,5 @@ featureD 2
 featureD 3
 feature-d 1
 feature-d 2
+feature-e 1
 feature-e 2
