@@ -14,3 +14,5 @@ featureC 3
 featureD 1
 featureD 2
 featureD 3
+feature-d 1
+feature-d 2
