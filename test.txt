@@ -1,3 +1,4 @@
 bla
 2. commit in master.
 feature B 1
+feature B 2
